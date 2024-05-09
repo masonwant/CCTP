@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 12913ceea04b14d818fdd14844a3e42f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - _tree: {fileID: 9197481963319205126, guid: d3853ace163b34c9182ed89a8b3df77a, type: 3}
+  - _tree1: {fileID: 9197481963319205126, guid: 3a017fb5fbaa84b658971ef3d4b13079,
+      type: 3}
+  - snowToolkitScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

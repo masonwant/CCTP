@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 822d4d6dfd138ba4a981d82da8ab477b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - TerrainEditor: {fileID: 9197481963319205126, guid: 2720fc525d820d04b8aa902824048b56,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

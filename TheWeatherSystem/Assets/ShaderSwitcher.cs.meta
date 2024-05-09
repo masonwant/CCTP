@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ec9d8d3327244e5f9a26f6cde86eb00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objectMaterial: {fileID: 2100000, guid: f52c0a531a4b24f1ca85cc73498df0b4, type: 2}
+  - snowShader: {fileID: -6465566751694194690, guid: 3267f4f158cde41c8ab98c90d03580a5,
+      type: 3}
+  - rainShader: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

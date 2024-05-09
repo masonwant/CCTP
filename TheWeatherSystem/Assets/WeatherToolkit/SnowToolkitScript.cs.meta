@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 22af38c1884eb4ea2890f00e8c4f1416
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - SnowToolkit: {fileID: 9197481963319205126, guid: 3a017fb5fbaa84b658971ef3d4b13079,
+      type: 3}
+  - snowSimulator: {instanceID: 0}
+  - Snow: {fileID: 2100000, guid: f52c0a531a4b24f1ca85cc73498df0b4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

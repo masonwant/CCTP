@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement tabindex="0" name="VisualElement" style="flex-grow: 1; display: flex;">
+        <ui:Label tabindex="-1" text="Snow Options" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" style="-unity-font-style: bold; font-size: 14px; padding-top: 10px; padding-left: 5px; margin-left: 4px;" />
+        <ui:Toggle label="Start Simulation" name="ToggleSnow" style="padding-top: 5px; padding-left: 5px; align-items: center;" />
+        <ui:Slider picking-mode="Ignore" label="Update (Seconds)" value="0.01" high-value="1" name="SnowUpdateSpeed" show-input-field="true" low-value="0.01" style="padding-left: 5px; flex-direction: row; flex-wrap: nowrap; align-items: flex-start; justify-content: flex-start; align-self: auto; width: 360px;" />
+        <ui:Slider picking-mode="Ignore" label="Snow Build Up" value="0.001" high-value="1" name="SnowBuildUp" show-input-field="true" low-value="0.001" style="padding-left: 5px; flex-direction: row; flex-wrap: nowrap; align-items: flex-start; justify-content: flex-start; align-self: auto; width: 360px;" />
+        <ui:Slider picking-mode="Ignore" label="Snow Melt" value="0.001" high-value="1" name="SnowMelt" show-input-field="true" low-value="0.001" style="padding-left: 5px; flex-direction: row; flex-wrap: nowrap; align-items: flex-start; justify-content: flex-start; align-self: auto; width: 360px;" />
+        <ui:MinMaxSlider picking-mode="Ignore" label="Snow Weight" min-value="0" max-value="50" low-limit="0" high-limit="50" name="SnowWeight" style="padding-left: 5px; padding-top: 5px; width: 360px;" />
+    </ui:VisualElement>
+</ui:UXML>
